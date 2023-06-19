@@ -1,6 +1,0 @@
-Hello world!!!
-12345
-Good bye!
-line from User2
-Line from User1
-Line from User1 - lesson about rebase
